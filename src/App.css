@@ -1,8 +1,12 @@
 .todo-container {
-    background: #ddd;
+    background: #161616;
+    color: #fff;
     padding: 20px 50px;
     width: 600px;
     height: 600px;
     border-radius: 8px;
     overflow: auto;
+    h1 {
+        font-weight: bold;
+    }
 }
